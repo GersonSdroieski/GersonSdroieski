@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @GersonSdroieski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">- 👋 Hi, I’m @GersonSdroieski</h1>
+<h1 align="center">- 👀 I’m interested in tools for it</h1>
+<h1 align="center">- 🌱 I’m currently learning IT</h1>
+<h1 align="center">- 💞️ I'm looking to collaborate learning</h1>
+<h1 align="center">- 😄 NikeName is B00Z3R</h1>
 
-<!---
-GersonSdroieski/GersonSdroieski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!Sharing interesting content</h1>
+
+
